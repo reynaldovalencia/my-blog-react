@@ -1,0 +1,1 @@
+mongodb+srv://my-react-blog-rey:mM6RmCQUGsNU4yR7@cluster0.gdhum.mongodb.net/my-react-blog-rey?retryWrites=true&w=majority
